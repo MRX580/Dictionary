@@ -1,1 +1,3 @@
-# Dictionary
+This small telegram bot called "Dictionary" was created to make it easier for people to learn the language, they did it every day, and besides the fact that they will have a dictionary in the telegram, there are also not many useful functions, such as a translator
+
+Further more...
